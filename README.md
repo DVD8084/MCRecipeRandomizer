@@ -6,7 +6,7 @@ Based upon the [MCRecipeScrambler](https://gitlab.com/UltraWelfare/mcrecipescram
 - Git.
 - Python3 (Tested on 3.7.3, should practically work with any 3.x version newer than 3.5).
 ### Usage
-- Clone the repo `git clone https://github.com/DVD8084/mcreciperandomizer.git`.
+- Clone the repo `git clone https://github.com/DVD8084/MCRecipeRandomizer.git`.
 - Create a folder in the root of the script named `recipes`.
 - Place all the vanilla JSON files for the recipes inside that folder.
 - Run the script `python [...]_randomizer.py name.zip`.
